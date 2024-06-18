@@ -4,14 +4,13 @@
 # Institution: University of Bologna
 
 # Course: Python for Economists
-# Instructor: Dr. Anatole Cheysson 
 # Object: Webscraping Repubblica
 
 # Current Version: 15/05/2024
 ###############################################################################
 
 # NOTE: I think they realized that I was screaping and they blocked me somehow.
-#       I am sure the code works, but sometime I am suspended from accessing 
+#       I am sure the code works, but sometimes I am suspended from accessing 
 #       the archive.
 
 # The code is organized as follows:
